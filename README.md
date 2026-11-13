@@ -1,6 +1,6 @@
 # Model dependent sensitivity to feature family outages
 
-Version 0.8.0 — Mazin Mohammed Hamid, Northern Technical University, Iraq.
+Version 0.8.1 — Mazin Mohammed Hamid, Northern Technical University, Iraq.
 
 This study compares coherent feature-family outages with equal-cardinality random losses. The interpretation is **model dependent**, not a universal claim that random losses understate damage. Additional controls approximately match training-label information, constant-column fraction and within-group correlation. Matching is imperfect and cannot establish semantic causality.
 
@@ -56,9 +56,14 @@ See `supplement/INDEX.md` for Tables S1–S12. Raw metric records, split indices
 ## Access and publication
 Reference 24 was verified against the publisher record and DOI 10.1177/0926227X261487917; full text remains restricted and no faithful MaskAug reproduction is claimed. Generic masking is not labeled MaskAug.
 
-The submission archive supplies code and evaluation records as Supplementary Software. No Zenodo DOI has been issued. The GitHub repository created by the author was empty when checked on 2026-11-13; it must receive the release before its URL can substantiate public code availability. Original dataset bytes are not redistributed.
+The submission archive supplies code and evaluation records as Supplementary Software. No Zenodo DOI has been issued. Source code is public at https://github.com/mazinalswady-glitch/IDS-Robustness- . The initial upload at commit fa9611f911d5d12e7835a4f28e4e47b085b472a7 contains the 31 root files; result, split-index, figure and supplement directories are supplied with this archive and must also be uploaded for a complete reproducibility deposit. Original dataset bytes are not redistributed.
 
-## Revision 0.8.0 diagnostics
+## Revision 0.8.1 diagnostics
 
 ## Secondary ranking analysis
 Run `python analyze_ranking_contrasts.py` to regenerate all 48 original and 120 expanded semantic-minus-comparator contrasts for Macro-F1, AUROC and AP. This analysis reuses existing scores; it adds no fits or new confirmatory p-values. Tables S11 and S12 give corrected pointwise intervals, not simultaneous intervals. Unchanged average AUROC does not establish equivalence, unchanged AP, or purely threshold-mediated damage.
+
+## Public code and release audit
+Repository: https://github.com/mazinalswady-glitch/IDS-Robustness-
+
+The first deposit contains 31 files matching the release bytes exactly. The accompanying upload-completion archives supply the missing directories and refreshed root metadata. Original datasets must still be downloaded from their cited providers. A GitHub URL is not a Zenodo DOI; no DOI or archived release is claimed.

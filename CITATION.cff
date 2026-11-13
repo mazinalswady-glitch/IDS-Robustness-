@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: Please cite the software release and manuscript after publication.
+message: Please cite this software and the associated manuscript.
 title: Model Dependent Sensitivity to Semantic Feature Group Outages in Network Intrusion Detection
-version: 0.8.0
+version: 0.8.1
 authors:
   - family-names: Hamid
     given-names: Mazin Mohammed
@@ -13,3 +13,5 @@ keywords:
   - missing data
   - semantic feature outages
   - reproducible evaluation
+repository-code: https://github.com/mazinalswady-glitch/IDS-Robustness-
+url: https://github.com/mazinalswady-glitch/IDS-Robustness-
