@@ -1,14 +1,15 @@
 {
-  "version": "0.8.0",
-  "abstract_words": 180,
-  "future_validation_protocol_in_submission": false,
-  "public_repository_status": "Empty when checked; no code deposition claimed",
+  "version": "0.8.1",
+  "public_code_url": "https://github.com/mazinalswady-glitch/IDS-Robustness-",
+  "initial_code_commit": "fa9611f911d5d12e7835a4f28e4e47b085b472a7",
+  "public_result_deposition_complete": false,
+  "doi": null,
   "files": {
-    "CITATION.cff": "982fb31c7953d5f6bdfd4cf8b8b2bbf6475133ad4aa03c7adee2f1598e930228",
-    "IDS_Robustness_Manuscript_IEEE_Draft.docx": "5139524a660437ee454b9c7cbe0f1600c0e6e6c47909226a4df5dde81062dbca",
+    "CITATION.cff": "b5943f88252cdb71b438fd3d333201a6e751210c11f97db28d225bcc6c9cc7ea",
+    "IDS_Robustness_Manuscript_IEEE_Draft.docx": "ea07e620cbaa8129abc90c58c8eac4630efaf1a02964204d53993b602b3a4598",
     "IDS_Robustness_Supplement_S1_S12.docx": "181534d47b23347c2bbb1f664c3314afd75bddc37f436c9d65a7e21c4c232011",
     "PROTOCOL.md": "fd47d61d228501bf4ae18ce15c143e0b900e0d819e338bd5f73cdf8240277e81",
-    "README.md": "555dc8c3b6516590572dc5651fbaf4271f132e9a1c403104df419b62c15b5cec",
+    "README.md": "bc42c61cb47ac1041fb91e4b2a6eed4c5bb8427cfd9cdabbf2c8725996188044",
     "analyze_controls.py": "1e54d921313736d1e4d60f8691d7d12e41b954822dee5786d8f18322a2a4896f",
     "analyze_mechanism.py": "f6c10507ae1ca9a4846a61f08444c3dfacd0c006b766a94a75ea49feedc2883c",
     "analyze_payload_membership.py": "e51c35ae46c6e0626d02c4e92a12499f9d78aba011f8da762dcd4cdeafec5447",
@@ -17,7 +18,7 @@
     "analyze_temporal.py": "29c983984064d0492d743b7e8abe389426c7be1782ac61afabcd2805c1b52708",
     "audit_release.py": "a07d417a7ad8110c683b63c069f1635b5c4c08feb377dabdcd428a20a4496d22",
     "audit_thursday_operating_point.py": "7f9097ece747c92d4308954ac1ded7020db4ac5f08c8b04b5f953065cf03fa30",
-    "build_manuscript.py": "297029ea015fee459d54f5aef61a7280c59bfcedcac1ff94ba4f90e081ad18e4",
+    "build_manuscript.py": "3e52d06411045120a699222e8c7a24c4adfa64f0f48b71c0b6d5a462046bb361",
     "build_supplement.py": "c0dc2fa90e574f815c07a38deb2663dacbee419e4f735e1242945715af2d7ade",
     "control_results/draws.json": "94bbe8bff331b5cb8011446de24f1872709521761007a46138fa3566dceb664f",
     "control_results/fits.csv": "d0e66cfb6850e36a114dd8b9dae236eb60a0db09cf3eedf5ce0a7192ddb2fbf2",
@@ -88,6 +89,7 @@
     "references_numbered.json": "9bc434de3adced8d795108655334c295e98fd052f52df05e83870d04918d575c",
     "requirements.txt": "72fd2cb47e0587ae62044de5efeeab364e0b37554333703dba6737976f061ff2",
     "results/expanded_statistics_120.csv": "ae08b174042efb559ec58c6d1b93f0e2df53014e5f40151b6226baec1510cc42",
+    "results/github_upload_audit.json": "c47607c365441eb7c4e4c580272ddf26443f6ff100150f05d3dfce0a960d1064",
     "results/ranking_contrasts_by_seed.csv": "0015b328b8872ac87d5f7589fade60c64bb4c87861c8d4256cac40019909df4b",
     "results/ranking_contrasts_secondary.csv": "951a6f423b5a3bf47c92ffce97840b46a87869e5691d445a994c761a7f122238",
     "results/release_audit.json": "1809e388ef942ce6739894d78d377315169a331d1c04283ae1eec75b85a28cd0",
@@ -194,6 +196,6 @@
     "thursday_results/split_1011.npz": "0db96acbc464dc75f16fc415895e96cae5a267d0f99e3f33d7323cbcc34543be",
     "thursday_results/split_1012.npz": "3d715f55aa86765e0fe53baaaeb461a86d18c4ede9089a8157e5140e7a895bac",
     "verify_references.py": "1114092b24baffd91b6ea28298d7e0998af6bcb835874d5b5e93d52dcd4c03b8",
-    "zenodo_metadata.json": "9e3e3339ba581d1122daeffb151e119ed0326ad6ea5abd95e5e47e2c0a514943"
+    "zenodo_metadata.json": "0b24371b9a1b035dcae4522d2549064dbb7aa1c1d9200f07cfb5e463f4fad785"
   }
 }
