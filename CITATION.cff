@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: Please cite the software release and manuscript after publication.
+title: Model Dependent Sensitivity to Semantic Feature Group Outages in Network Intrusion Detection
+version: 0.8.0
+authors:
+  - family-names: Hamid
+    given-names: Mazin Mohammed
+    affiliation: Northern Technical University, Iraq
+    email: mazin.mohammed@ntu.edu.iq
+type: software
+keywords:
+  - intrusion detection
+  - missing data
+  - semantic feature outages
+  - reproducible evaluation

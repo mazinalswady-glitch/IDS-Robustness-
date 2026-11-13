@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Semantic Feature Group Outage Benchmark for Network Intrusion Detection",
+    "upload_type": "software",
+    "creators": [
+      {
+        "name": "Hamid, Mazin Mohammed",
+        "affiliation": "Northern Technical University, Iraq"
+      }
+    ],
+    "description": "Research code and measured outputs comparing semantic feature-family loss with size-matched random column loss, with grouped resampling on official RT-IoT2022 and a chronological LYCOS-IDS2017 Tuesday case. No claim of MaskAug reproduction.",
+    "keywords": [
+      "intrusion detection",
+      "missing data",
+      "semantic outages",
+      "reproducibility"
+    ],
+    "version": "0.8.0"
+  },
+  "title": "Model Dependent Sensitivity to Semantic Feature Group Outages in Network Intrusion Detection",
+  "version": "0.8.0",
+  "description": "Executed research code and metrics for model-dependent feature-family outage sensitivity, with twenty random draws per family, training-only information and correlation controls, and official corrected LYCOS Thursday temporal replication. Exploratory statistics, matching diagnostics and limitations are included. No archival DOI has yet been issued."
+}
